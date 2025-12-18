@@ -156,6 +156,3 @@ Configuration JAX-RS avec package scanning pour `org.example.calculatrice`
 Ce projet est réalisé dans le cadre académique - Module LS13 SOA
 
 
-**Dernière mise à jour** : Décembre 2025  
-**Version** : 1.0  
-**Contact** : [GitHub Profile](https://github.com/Balkis-Mahjoubi1)
